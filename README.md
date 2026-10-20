@@ -47,7 +47,7 @@ I grade on the Android emulator, so run it there regularly, not just at the end.
 
 Push whenever something works: your first API call showing results, the grid, each new control, the saved search term. Small commits with real messages ("Add type dropdown", "Fix crash on empty results") are what I'm hoping to see.
 
-Your commit history is how I see your app come together. A whole project that arrives in one commit the night it's due is hard to tell apart from code that came from somewhere else, and that's when I'll ask you to walk me through it. It's also graded: the final needs at least 5 commits, spread over at least 3 different days, or it loses up to 10 points.
+Your commit history is how I see your app come together. A whole project that arrives in one commit the night it's due is hard to tell apart from code that came from somewhere else, and that's when I'll ask you to walk me through it. It's also graded: the final needs at least 5 commits of your own, or it loses up to 10 points.
 
 **One repo for both deliverables, graded by what's pushed at each due time.** For the Prototype App, that's whatever is in this repo at the prototype deadline. Then keep working here: for the Final App, it's whatever is here at the final deadline. Work that's only on your laptop doesn't count. Each deliverable also has a short document that goes in its MyCourses dropbox (a reflection for the prototype, a one-page PDF for the final). The spec says what goes in each.
 
